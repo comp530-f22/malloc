@@ -16,4 +16,4 @@ update:
 	git pull https://github.com/comp530-f22/malloc.git master
 
 clean:
-	rm -f test th_alloc.so
+	rm -f test test1 th_alloc.so
